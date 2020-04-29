@@ -3,7 +3,7 @@ This is a project focused on "Securing the NoC Using Machine Learning Based Anom
 
 Encrypted Packet Monitoring Using ML
 
-Following are the results derived by the current models. Under each model, final train accuracy, validaction accuracy and test accuracy are mentioned.
+Following are the results derived by the current models for each router from r0 till r15. Under each model, final train accuracy, validaction accuracy and test accuracy are mentioned.
 
 wat-r0-model-v1.ipynb
 train   :   89.89%

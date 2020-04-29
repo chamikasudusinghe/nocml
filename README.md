@@ -6,9 +6,9 @@ Encrypted Packet Monitoring Using ML
 Following are the results derived by the current models. Under each model, final train accuracy, validaction accuracy and test accuracy are mentioned.
 
 wat-r0-model-v1.ipynb
-train   :   88.85%
-val     :   88.68%
-test    :   88.54%
+train   :   89.89%
+val     :   90.62%
+test    :   90.74%
 
 wat-r1-model-v3-fft.ipynb
 train   :   88.85%

@@ -11,9 +11,9 @@ val     :   90.62%
 test    :   90.74%
 
 wat-r1-model-v3-fft.ipynb
-train   :   88.85%
-val     :   88.68%
-test    :   88.54%
+train   :   98.73%
+val     :   98.99%
+test    :   98.98%
 
 wat-r2-model-v1.ipynb
 train   :   93.40%

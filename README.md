@@ -9,6 +9,6 @@ Encrypted Packet Monitoring Using ML
 
 [synth ver 1.1] - Current set of models run in the system againts eavesdropping attack with all possible features atm. Results included.
 
-[Design Project] - Source files of models and data extraction for demonstrations.
+[design project] - Source files of models and data extraction for demonstrations.
 
 log files are not included here due to large file size.

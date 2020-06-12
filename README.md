@@ -11,7 +11,7 @@ Encrypted Packet Monitoring Using ML
 
 [design project] - Source files of models and data extraction for demonstrations.
 
-[dos results ver 4] -  Results generation for 100 window
+[dos results ver 3] -  Results generation for 100 window
 
 [dos results ver 4] -  Generated results foe the paper (for 1000 window)
 

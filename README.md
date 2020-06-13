@@ -11,6 +11,10 @@ Encrypted Packet Monitoring Using ML
 
 [design project] - Source files of models and data extraction for demonstrations.
 
+[dos results ver 1] -  Simulation results and visualization for execution of FFT for 2 IPs (normal).
+
+[dos results ver 2] -  Simulation results and visualization for execution of FFT for 8 IPs (normal).
+
 [dos results ver 3] -  Results generation for 100 window
 
 [dos results ver 4] -  Generated results foe the paper (for 1000 window)

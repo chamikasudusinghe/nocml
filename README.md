@@ -1,4 +1,5 @@
-# nocml
+# Denial-of-Service Attack Detection using MachineLearning in Network-on-Chip Architectures
+
 This is a project focused on "Securing the NoC Using Machine Learning Based Anomaly Detection".
 
 Encrypted Packet Monitoring Using ML

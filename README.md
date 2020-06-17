@@ -8,6 +8,10 @@ A machine learning-based runtime monitoring mechanism to detect DoS attacks is p
 
 ## The Era of IoT
 
+The number of connected smart computing devices exceeds the human population, expecting over 50 billion devices to be deployed and mutually connected by 2025.
+
+Development of solutions are ranging from smartwatches, smart cars, smart homes, all the way to smart cities.
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

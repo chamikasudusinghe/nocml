@@ -1,10 +1,8 @@
 # Denial-of-Service Attack Detection using MachineLearning in Network-on-Chip Architectures
 
-add abstract here
+State-of-the-art System-on-Chip (SoC) designs consist of many Intellectual Property (IP) cores that interact using a Network-on-Chip (NoC) architecture. SoC designers increasingly rely on global supply chains for obtaining third-party IPs. In addition to inherent vulnerabilities associated with utilizing thirdparty IPs, NoC based SoCs enable attackers to exploit the distributed nature of NoC and its connectivity with various IPs to launch a plethora of attacks. Specifically, Denial-ofService (DoS) attacks pose a serious threat in degrading the SoC performance by flooding the NoC with unnecessary packets.
 
-This is a project focused on "Securing the NoC Using Machine Learning Based Anomaly Detection".
-
-Encrypted Packet Monitoring Using ML
+A machine learning-based runtime monitoring mechanism to detect DoS attacks is presented here. The approach is capable of detecting DoS attacks with high accuracy, even in the presence of unpredictable NoC traffic patterns caused by various applications and application mappings. We extensively explore machine learning models and features to provide a comprehensive study on how to use machine learning for DoS attack detection in NoC-based SoCs
 
 [dos ver 5.1] - Initial set of models run in the system againts dos attack with limited features. ##errorneous features are included here.
 

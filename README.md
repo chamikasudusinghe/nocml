@@ -14,24 +14,22 @@ A machine learning-based runtime monitoring mechanism to detect DoS attacks is p
 
 [Modeling][dos ver 4] - Modeling the system by slinding windows of 100, 1000 and 10000 for the entire dataset.
 
-[Modeling][dos ver 4] - Modeling the system by slinding windows of 100, 1000 and 10000 for the entire dataset.
+[Modeling][dos ver 5.1] - Modeling the per each router for the conventional NoC architecture.
 
-[Results] - Initial set of models run in the system againts dos attack with limited features. ##errorneous features are included here.
+[Modeling][dos ver 5.1] - Modeling the per each router for the KNL architecture with additional crafted features.
 
-[Paper] - Initial set of models run in the system againts dos attack with limited features. ##errorneous features are included here.
+[Modeling][syth ver 1.1] - Modeling against synthetic traffic generation to see its performance againts the model.
 
-[dos ver 5.2] - Current set of models run in the system againts dos attack with all possible features atm. Results included.
+[Results] - Iterative process of generating results to be included in the paper.
 
-[synth ver 1.1] - Current set of models run in the system againts eavesdropping attack with all possible features atm. Results included.
+[Results][dos results ver 1][dos results ver 1.1] -  Simulation results and visualization for execution of FFT for 2 IPs (normal).
 
-[design project] - Source files of models and data extraction for demonstrations.
+[Results][dos results ver 2] -  Simulation results and visualization for execution of FFT for 8 IPs (normal).
 
-[dos results ver 1] -  Simulation results and visualization for execution of FFT for 2 IPs (normal).
+[Results][dos results ver 3] -  Results generation for 100 window for all 16  routers.
 
-[dos results ver 2] -  Simulation results and visualization for execution of FFT for 8 IPs (normal).
+[Results][dos results ver 4] -   Results generation for 1000 window for all 16  routers. (included in the paper)
 
-[dos results ver 3] -  Results generation for 100 window
-
-[dos results ver 4] -  Generated results foe the paper (for 1000 window)
+[Paper] - Statstical and descriptive content to be included in the paper.
 
 log files are not included here due to large file size.

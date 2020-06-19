@@ -4,9 +4,17 @@ State-of-the-art System-on-Chip (SoC) designs consist of many Intellectual Prope
 
 A machine learning-based runtime monitoring mechanism to detect DoS attacks is presented here. The approach is capable of detecting DoS attacks with high accuracy, even in the presence of unpredictable NoC traffic patterns caused by various applications and application mappings. We extensively explore machine learning models and features to provide a comprehensive study on how to use machine learning for DoS attack detection in NoC-based SoCs
 
-[Initial] - Initial set of models run in the system againts dos attack with limited features. ##errorneous features are included here.
+[Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.
 
-[Modeling] - Initial set of models run in the system againts dos attack with limited features. ##errorneous features are included here.
+[Modeling] - Modeling different set of data to understand about the features to be used and extracted from the log file itearatively.
+
+[Modeling][dos ver 1] - Visualization of the original features extracted from the log file and the correlation about the features.
+
+[Modeling][dos ver 2] - Visualization of the additional features and original features extracted from the log file and the correlation about the features.
+
+[Modeling][dos ver 4] - Modeling the system by slinding windows of 100, 1000 and 10000 for the entire dataset.
+
+[Modeling][dos ver 4] - Modeling the system by slinding windows of 100, 1000 and 10000 for the entire dataset.
 
 [Results] - Initial set of models run in the system againts dos attack with limited features. ##errorneous features are included here.
 

@@ -9,7 +9,9 @@ A machine learning-based runtime monitoring mechanism to detect DoS attacks is p
 ## The Era of IoT
 
 
-![IOT](https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/01-iot.png)
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/01-iot.png">
+</p>
 
 The number of connected smart computing devices exceeds the human population, expecting over 50 billion devices to be deployed and mutually connected by 2025.
 

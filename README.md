@@ -13,9 +13,7 @@ A machine learning-based runtime monitoring mechanism to detect DoS attacks is p
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/01-iot.png">
 </p>
 
-The number of connected smart computing devices exceeds the human population, expecting over 50 billion devices to be deployed and mutually connected by 2025.
-
-Development of solutions are ranging from smartwatches, smart cars, smart homes, all the way to smart cities.
+The number of connected smart computing devices exceeds the human population, expecting over 50 billion devices to be deployed and mutually connected by 2025. Development of solutions are ranging from smartwatches, smart cars, smart homes, all the way to smart cities. We live in a time which is reigned by mutually connected devices.
 
 Need to add images from the begining about the structure - from data vil to models
 

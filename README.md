@@ -18,14 +18,14 @@ The number of connected smart computing devices exceeds the human population, ex
 ## System-on-Chip
 
 <div class="row">
-  <div class="column">
-    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-motherboard.png" style="width:100%">
+  <div class="column" style="display: inline-block">
+    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-motherboard.png">
   </div>
-  <div class="column">
-    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-raspberrypi.png" style="width:100%">
+  <div class="column" style="display: inline-block">
+    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-raspberrypi.png">
   </div>
-  <div class="column">
-    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-applebionic.png" style="width:100%">
+  <div class="column" style="display: inline-block">
+    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-applebionic.png">
   </div>
 </div>
 

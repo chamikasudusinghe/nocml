@@ -15,6 +15,20 @@ A machine learning-based runtime monitoring mechanism to detect DoS attacks is p
 
 The number of connected smart computing devices exceeds the human population, expecting over 50 billion devices to be deployed and mutually connected by 2025. Development of solutions are ranging from smartwatches, smart cars, smart homes, all the way to smart cities. We live in a time which is reigned by mutually connected devices.
 
+## System-on-Chip
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-motherboard.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-raspberrypi.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-applebionic.png" style="width:100%">
+  </div>
+</div>
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

@@ -18,7 +18,7 @@ The number of connected smart computing devices exceeds the human population, ex
 ## System-on-Chip
 
 <p align="center"> 
-<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-soc.png">
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-soc.PNG">
 </p>
 
 Need to add images from the begining about the structure - from data vil to models

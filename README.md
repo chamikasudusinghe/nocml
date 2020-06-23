@@ -17,17 +17,9 @@ The number of connected smart computing devices exceeds the human population, ex
 
 ## System-on-Chip
 
-<div class="row">
-  <div class="" style="display: inline-block">
-    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-motherboard.png">
-  </div>
-  <div class="" style="display: inline-block">
-    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-raspberrypi.png">
-  </div>
-  <div class="" style="display: inline-block">
-    <img src="https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-applebionic.png">
-  </div>
-</div>
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-soc.png">
+</p>
 
 Need to add images from the begining about the structure - from data vil to models
 

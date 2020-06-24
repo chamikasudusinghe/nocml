@@ -1,4 +1,4 @@
-# Denial-of-Service Attack Detection using MachineLearning in Network-on-Chip Architectures
+# Denial-of-Service Attack Detection using Machine Learning in Network-on-Chip Architectures
 
 State-of-the-art System-on-Chip (SoC) designs consist of many Intellectual Property (IP) cores that interact using a Network-on-Chip (NoC) architecture. SoC designers increasingly rely on global supply chains for obtaining third-party IPs. In addition to inherent vulnerabilities associated with utilizing thirdparty IPs, NoC based SoCs enable attackers to exploit the distributed nature of NoC and its connectivity with various IPs to launch a plethora of attacks. Specifically, Denial-ofService (DoS) attacks pose a serious threat in degrading the SoC performance by flooding the NoC with unnecessary packets.
 

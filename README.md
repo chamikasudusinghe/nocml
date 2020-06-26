@@ -21,6 +21,12 @@ The number of connected smart computing devices exceeds the human population, ex
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/02-soc.PNG">
 </p>
 
+System-on-Chip (SoC) designs are at the heart of the computing devices, which range from simple IoT devices in smart homes to complex navigation systems in airplanes.
+
+SoCs are in contrast to the common traditional motherboard-based PC architecture, whereas a motherboard houses and connects detachable or replaceable components, SoCs integrate all of these components into a single integrated circuit, as if all these functions were built into the motherboard.
+
+The Broadcom BCM2835 SoC used in the first generation Raspberry Pi includes a 700 MHz ARM1176JZF-S processor, VideoCore IV graphics processing unit (GPU), and RAM.
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

@@ -29,6 +29,14 @@ The Broadcom BCM2835 SoC used in the first generation Raspberry Pi includes a 70
 
 ### Syetem-on-Chip Definition
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/03-soc-def.png">
+</p>
+
+A system on a chip (SoC) combines the required electronic circuits of various computer components onto a single, integrated chip (IC).
+
+Modern SoC designs contain several highly sensitive assets such as encryption keys, device configurations, and on-device protected data that are responsible for keeping our personal, financial, and intimate physiological information safe and secure.
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

@@ -39,6 +39,10 @@ Modern SoC designs contain several highly sensitive assets such as encryption ke
 
 ### Popular System-on-Chips
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/04-socs.PNG">
+</p>
+
 
 Need to add images from the begining about the structure - from data vil to models
 

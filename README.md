@@ -43,6 +43,9 @@ Modern SoC designs contain several highly sensitive assets such as encryption ke
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/04-socs.PNG">
 </p>
 
+Today, System-on-Chips (SoCs) can be found in almost every smartphone and tablet.
+
+### Why a SoC is different from a CPU?
 
 Need to add images from the begining about the structure - from data vil to models
 

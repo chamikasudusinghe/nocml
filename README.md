@@ -47,6 +47,10 @@ Today, System-on-Chips (SoCs) can be found in almost every smartphone and tablet
 
 ### Why a SoC is different from a CPU?
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/05-cpusoc.PNG">
+</p>
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

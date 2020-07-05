@@ -51,6 +51,13 @@ Today, System-on-Chips (SoCs) can be found in almost every smartphone and tablet
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/05-cpusoc.PNG">
 </p>
 
+CPU is a very fast calculator. It fetches data from memory, and then performs some kind of arithmetic (add, multiply) or logical (and, or, not) operation on that data. It requires a whole framework of other silicon chips to perform the tasks of a computer. A memory to hold the data, an audio chip to decode and amplify music, a graphics processor to draw pictures on the monitor.
+
+System-on-a-chip integrates almost all of these components into a single silicon chip. A SoC usually contains a GPU (a graphics processor), a memory, a USB controller, and power management circuits other than its processors.
+
+A CPU cannot function without dozens of other chips, it’s possible to build complete computers with just a single SoC.
+
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

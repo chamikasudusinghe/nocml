@@ -57,6 +57,17 @@ System-on-a-chip integrates almost all of these components into a single silicon
 
 A CPU cannot function without dozens of other chips, it’s possible to build complete computers with just a single SoC.
 
+### Why SoCs are preffered?
+
+Needs less wiring than a CPU
+
+Almost at the same size of a CPU.
+
+Provides more functionality than a CPU.
+
+In most instances, SoCs have a lesser power consumption.
+
+Provides better design security at hardware and firmware levels.
 
 Need to add images from the begining about the structure - from data vil to models
 

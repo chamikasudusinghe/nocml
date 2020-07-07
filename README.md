@@ -8,6 +8,8 @@ Need to add images from the begining about the structure - from data vil to mode
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.
 
+include future work as well
+
 [Modeling] - Modeling different set of data to understand about the features to be used and extracted from the log file itearatively.
 
 [Modeling][dos ver 1] - Visualization of the original features extracted from the log file and the correlation about the features.

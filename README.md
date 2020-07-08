@@ -69,6 +69,11 @@ In most instances, SoCs have a lesser power consumption.
 
 Provides better design security at hardware and firmware levels.
 
+### Intellectual Property Core Definition
+
+An  Intellectual Property (IP) core in semiconductors is a reusable unit of logic or functionality or a cell or a layout design  that is normally developed  with the  idea of  licencing to multiple vendor for  using as building blocks in  different chip designs.
+
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

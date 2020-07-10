@@ -71,6 +71,10 @@ Provides better design security at hardware and firmware levels.
 
 ### Intellectual Property Core Definition
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/05-ipcore.PNG">
+</p>
+
 An  Intellectual Property (IP) core in semiconductors is a reusable unit of logic or functionality or a cell or a layout design  that is normally developed  with the  idea of  licencing to multiple vendor for  using as building blocks in  different chip designs.
 
 

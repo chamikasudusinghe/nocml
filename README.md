@@ -77,6 +77,10 @@ Provides better design security at hardware and firmware levels.
 
 An  Intellectual Property (IP) core in semiconductors is a reusable unit of logic or functionality or a cell or a layout design  that is normally developed  with the  idea of  licencing to multiple vendor for  using as building blocks in  different chip designs.
 
+### Complexity and Challenges
+
+This has challenged the verification of modern system-on-chip solutions and the increasing number of cores demands the use of a scalable on-chip interconnection architecture.
+
 
 Need to add images from the begining about the structure - from data vil to models
 

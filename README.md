@@ -79,6 +79,10 @@ An  Intellectual Property (IP) core in semiconductors is a reusable unit of logi
 
 ### Complexity and Challenges
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/05-complexity.PNG">
+</p>
+
 This has challenged the verification of modern system-on-chip solutions and the increasing number of cores demands the use of a scalable on-chip interconnection architecture.
 
 

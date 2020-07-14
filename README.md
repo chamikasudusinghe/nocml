@@ -83,9 +83,7 @@ An  Intellectual Property (IP) core in semiconductors is a reusable unit of logi
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/05-complexity.PNG">
 </p>
 
-This has challenged the verification of modern system-on-chip solutions and the increasing number of cores demands the use of a scalable on-chip interconnection architecture.
-
-The drastic increase in SoC complexity has led to a significant increase in SoC design and validation complexity.
+The drastic increase in SoC complexity has led to a significant increase in SoC design and validation complexity. This has challenged the verification of modern system-on-chip solutions and the increasing number of cores demands the use of a scalable on-chip interconnection architecture.
 
 Reusable hardware IP based SoC design from various vendors has emerged as a pervasive design practice in the industry to dramatically reduce design and verification cost while meeting aggressive time-to-market constraints. These third-party IPs may come with deliberate malicious implants to incorporate undesired functionality .
 

@@ -91,7 +91,7 @@ The drastic increase in SoC complexity has led to a significant increase in SoC 
 
 Reusable hardware IP based SoC design from various vendors has emerged as a pervasive design practice in the industry to dramatically reduce design and verification cost while meeting aggressive time-to-market constraints. These third-party IPs may come with deliberate malicious implants to incorporate undesired functionality .
 
-
+## Network-on-Chip
 
 Need to add images from the begining about the structure - from data vil to models
 

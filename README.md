@@ -93,6 +93,8 @@ Reusable hardware IP based SoC design from various vendors has emerged as a perv
 
 ## Network-on-Chip
 
+Network-on-Chip architecture is widely used to interconnect the Intellectual Property (IP) cores the System-on-Chip (SoC) designs. It uses a a packet based communication approach. 
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

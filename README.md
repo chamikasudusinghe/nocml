@@ -72,7 +72,7 @@ Provides better design security at hardware and firmware levels.
 ### Intellectual Property Core Definition
 
 <p align="center"> 
-<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/05-ipcore.PNG">
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/06-ipcore.PNG">
 </p>
 
 An  Intellectual Property (IP) core in semiconductors is a reusable unit of logic or functionality or a cell or a layout design  that is normally developed  with the  idea of  licencing to multiple vendor for  using as building blocks in  different chip designs.
@@ -92,6 +92,10 @@ The drastic increase in SoC complexity has led to a significant increase in SoC 
 Reusable hardware IP based SoC design from various vendors has emerged as a pervasive design practice in the industry to dramatically reduce design and verification cost while meeting aggressive time-to-market constraints. These third-party IPs may come with deliberate malicious implants to incorporate undesired functionality .
 
 ## Network-on-Chip
+
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/08-noc.PNG">
+</p>
 
 Network-on-Chip architecture is widely used to interconnect the Intellectual Property (IP) cores the System-on-Chip (SoC) designs. It uses a a packet based communication approach. 
 

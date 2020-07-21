@@ -101,6 +101,10 @@ Network-on-Chip architecture is widely used to interconnect the Intellectual Pro
 
 NoC has allowed computer architects to fully utilize the computational power in an SoC by facilitating low-latency and high-throughput.
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/09-nocs.PNG">
+</p>
+
 It is considered as an aggressive long-term approach for on-chip communications because it can deal well with the design issues of communication performance, power consumption, signal integrity, and system scalability.
 
 

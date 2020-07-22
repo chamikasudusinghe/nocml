@@ -107,6 +107,15 @@ NoC has allowed computer architects to fully utilize the computational power in 
 
 It is considered as an aggressive long-term approach for on-chip communications because it can deal well with the design issues of communication performance, power consumption, signal integrity, and system scalability.
 
+## Motivation
+
+The global trend of distributed design, manufacturing and testing of intellectual property  cores of system-on-chip (SoC)  has raised serious concerns about SoC security vulnerabilities.
+
+Previous strategies to detect these security vulnerabilities are based on highly predictable NoC traffic patterns, which allowed the construction of linear statistical bounds to detect attacks such as DoS.
+
+Assumptions of previous detection strategies do not hold during many realistic scenarios that include task migration, task preemption, changing application characteristics due to major input variations, etc
+
+To the best of my knowledge, this is the first attempt at securing network-on-chip based system-on-chip using machine learning.
 
 Need to add images from the begining about the structure - from data vil to models
 

@@ -117,6 +117,8 @@ Assumptions of previous detection strategies do not hold during many realistic s
 
 To the best of my knowledge, this is the first attempt at securing network-on-chip based system-on-chip using machine learning.
 
+## Deliverables
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

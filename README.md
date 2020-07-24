@@ -119,6 +119,16 @@ To the best of my knowledge, this is the first attempt at securing network-on-ch
 
 ## Deliverables
 
+Simulate and profile the normal behavior of traffic when applications are running.
+
+Simulate and profile anomalous behavior of traffic when security violations are carried out against the system.
+
+Build a model that encapsulates the normal behavior with the goal of capturing any abnormalities during runtime.
+
+Implementing detection strategies for identified security violations (ex: DOS) and appropriate countermeasures.
+
+Deploying the trained model in the NoC and evaluate the performance during runtime.
+
 Need to add images from the begining about the structure - from data vil to models
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

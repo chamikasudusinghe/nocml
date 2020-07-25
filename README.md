@@ -131,6 +131,22 @@ Deploying the trained model in the NoC and evaluate the performance during runti
 
 Need to add images from the begining about the structure - from data vil to models
 
+## Timeline
+
+Setup NoC simulation environment		- 13th March		-	✔️
+
+Collect NoC traffic traces by simulator		- 20th March		-	✔️
+
+Development of Initial ML model			- 30th April		-	✔️
+
+Test ML model on different attack models	- 07th May		-	✔️	
+
+Re-evaluate and re-build model if required	- 14th May		- 	✔️
+
+Complete first draft of the paper		- 27th May		-	✔️
+
+Paper submission to the conference		- 05th June		-	✔️
+
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.
 
 include future work as well

@@ -156,7 +156,7 @@ Paper submission to the conference		- 05th June		-	✔️
 ## Machine Learning Pipeline
 
 <p align="center"> 
-<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/10-ml.PNG">
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/11-ml.PNG">
 </p>
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

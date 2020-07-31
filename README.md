@@ -165,6 +165,10 @@ Paper submission to the conference		- 05th June		-	✔️
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/12-dos.png">
 </p>
 
+## Threat Model (Using FFT)
+
+
+
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.
 
 include future work as well

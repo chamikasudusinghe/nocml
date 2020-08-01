@@ -173,7 +173,9 @@ Paper submission to the conference		- 05th June		-	✔️
 
 ## GEM5 Simulation and Data Extraction
 
-
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/14-sim.png">
+</p>
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.
 

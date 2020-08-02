@@ -179,6 +179,13 @@ Paper submission to the conference		- 05th June		-	✔️
 
 Each hop of a flit is depicted in 6 lines; connection to network interface, waking up of the router, flit passing through the router.
 
+### Simulation Edits
+
+packet type - GETS, GETX, PUTX, PUTS, DATA, ACK
+directory address of the packet - ex: 0x1dc0
+
+Newly extracted data were added to the SwitchAllocator line and the SwitchAllocator line was used to extract features to be used in the machine learning model.
+
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.
 
 include future work as well

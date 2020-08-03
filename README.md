@@ -188,6 +188,19 @@ Newly extracted data were added to the SwitchAllocator line and the SwitchAlloca
 
 ## Initially Generated Features
 
+time: timestamp when the flit passes through the router
+router: the router which the flit is passing at the timestamp
+inport: the input port used by the flit to enter the router (1-South, 2-East, ...)
+outport: the output port used by the flit to enter the router (1-South, 2-East, ...)
+packet type: the type of the packet of the respective flit entering the router (1-GETS, 2-GETX, ...)
+flit id: the identifier used to determine each flit that forms a packet
+flit type: this defines whether the filt is the header of a request, response or data 
+vnet: virtual networks provide the same resource sharing capabilities that are inherent in other resources being a platform-independent.
+vc: virtual channel used by the flit to enter the router
+src ni: the network interface of the source router used by the flit
+src router: the source router of the flit
+dst ni: the network interface of the destination router used by the flit
+dst router: the destination router of the flit
 
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

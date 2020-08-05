@@ -208,6 +208,24 @@ dst router: the destination router of the flit
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/17-fab.PNG">
 </p>
 
+traversal  id			: 	identifier used to group all packet transfers related to one NoC traversal.
+hop count			:	number of hops from the source to the destination.
+current hop			:	number of hops from the source to the current router
+hop percentage		:	ratio between the current hop and the hop count
+enqueue time		:	time spent inside the router by the flit
+packet count decr		:	cumulative no. of flit arrivals within time window τ (decremented as packets 
+arrive)
+packet count incr		:	cumulative no. of flit arrivals within time window τ (incremented as packets 
+arrive)
+max packet count		:	maximum no. of flits transferred through the router within a given time window τ
+packet count index	: 	packet count incr × packet count decr
+Port index			:	outport × inport
+traversal index		:	cache coherence type × flit id × flit type × traversal id
+cc vnet index		:	cache coherence type × vnet
+vnet vc cc index		:	cache coherence vnet index × vc
+
+
+
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.
 
 include future work as well

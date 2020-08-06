@@ -224,6 +224,10 @@ traversal index		:	cache coherence type × flit id × flit type × traversal id
 cc vnet index		:	cache coherence type × vnet
 vnet vc cc index		:	cache coherence vnet index × vc
 
+## Feature Correlation
+
+
+
 
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

@@ -226,8 +226,9 @@ vnet vc cc index		:	cache coherence vnet index × vc
 
 ## Feature Correlation
 
+Most features are not perfectly correlated to each other and falls in the low to medium (0 ± 0:5) correlation range.
 
-
+The target label is not linearly correlated with the features. Therefore linear models are unlikely to yield good results, exploration of techniques that capture nonlinear behavior should be performed.
 
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

@@ -236,9 +236,15 @@ The target label is not linearly correlated with the features. Therefore linear 
 
 ## Model Perfomance Comparison
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/19-compare.png">
+</p>
+
 Non-linear ML models perform better than linear models with XGB showing the best results.
 
 Training accuracy and validation accuracy measured using an 80:20 training:validation split from the dataset at router 0.
+
+## Model Optimization - XGBoost
 
 
 

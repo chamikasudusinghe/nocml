@@ -246,6 +246,9 @@ Training accuracy and validation accuracy measured using an 80:20 training:valid
 
 ## Model Optimization - XGBoost
 
+The hyperparameters of the selected model were tuned using bayesian optimization, which limits expensive evaluations of the objective function by choosing the next input values based on those that have done well in the past.
+
+The hyperparameters including learning rate, n_estimators, max_depth, subsample and gamma were optimized per each model model (routervise).
 
 
 [Initial] - Initial set of word done on the dataset from extraction, feature engineering to machine learning pipelines. Models run here to detect  dos attacks have limited features. ##errorneous features are also included.

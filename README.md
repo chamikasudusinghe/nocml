@@ -246,6 +246,11 @@ Training accuracy and validation accuracy measured using an 80:20 training:valid
 
 ## Model Optimization - XGBoost
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/20-opt.png">
+</p>
+
+
 The hyperparameters of the selected model were tuned using bayesian optimization, which limits expensive evaluations of the objective function by choosing the next input values based on those that have done well in the past.
 
 The hyperparameters including learning rate, n_estimators, max_depth, subsample and gamma were optimized per each model model (routervise).

@@ -192,6 +192,10 @@ Newly extracted data were added to the SwitchAllocator line and the SwitchAlloca
 
 ## Initially Generated Features
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/16-init.PNG">
+</p>
+
 time: timestamp when the flit passes through the router  <br/>
 router: the router which the flit is passing at the timestamp  <br/>
 inport: the input port used by the flit to enter the router (1-South, 2-East, ...) <br/>

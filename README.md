@@ -181,6 +181,10 @@ Each hop of a flit is depicted in 6 lines; connection to network interface, waki
 
 ### Simulation Edits
 
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/15-sim-edits.PNG">
+</p>
+
 packet type - GETS, GETX, PUTX, PUTS, DATA, ACK
 directory address of the packet - ex: 0x1dc0
 

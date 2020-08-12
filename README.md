@@ -188,18 +188,18 @@ Newly extracted data were added to the SwitchAllocator line and the SwitchAlloca
 
 ## Initially Generated Features
 
-time: timestamp when the flit passes through the router
-router: the router which the flit is passing at the timestamp
-inport: the input port used by the flit to enter the router (1-South, 2-East, ...)
-outport: the output port used by the flit to enter the router (1-South, 2-East, ...)
-packet type: the type of the packet of the respective flit entering the router (1-GETS, 2-GETX, ...)
-flit id: the identifier used to determine each flit that forms a packet
-flit type: this defines whether the filt is the header of a request, response or data 
-vnet: virtual networks provide the same resource sharing capabilities that are inherent in other resources being a platform-independent.
-vc: virtual channel used by the flit to enter the router
-src ni: the network interface of the source router used by the flit
-src router: the source router of the flit
-dst ni: the network interface of the destination router used by the flit
+time: timestamp when the flit passes through the router  <br/>
+router: the router which the flit is passing at the timestamp  <br/>
+inport: the input port used by the flit to enter the router (1-South, 2-East, ...) <br/>
+outport: the output port used by the flit to enter the router (1-South, 2-East, ...)<br/>
+packet type: the type of the packet of the respective flit entering the router (1-GETS, 2-GETX, ...)<br/>
+flit id: the identifier used to determine each flit that forms a packet<br/>
+flit type: this defines whether the filt is the header of a request, response or data <br/>
+vnet: virtual networks provide the same resource sharing capabilities that are inherent in other resources being a platform-independent.<br/>
+vc: virtual channel used by the flit to enter the router<br/>
+src ni: the network interface of the source router used by the flit<br/>
+src router: the source router of the flit<br/>
+dst ni: the network interface of the destination router used by the flit<br/>
 dst router: the destination router of the flit
 
 ## Fabricated Features (Routervise)
@@ -208,21 +208,19 @@ dst router: the destination router of the flit
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/17-fab.PNG">
 </p>
 
-traversal  id			: 	identifier used to group all packet transfers related to one NoC traversal.
-hop count			:	number of hops from the source to the destination.
-current hop			:	number of hops from the source to the current router
-hop percentage		:	ratio between the current hop and the hop count
-enqueue time		:	time spent inside the router by the flit
-packet count decr		:	cumulative no. of flit arrivals within time window τ (decremented as packets 
-arrive)
-packet count incr		:	cumulative no. of flit arrivals within time window τ (incremented as packets 
-arrive)
-max packet count		:	maximum no. of flits transferred through the router within a given time window τ
-packet count index	: 	packet count incr × packet count decr
-Port index			:	outport × inport
-traversal index		:	cache coherence type × flit id × flit type × traversal id
-cc vnet index		:	cache coherence type × vnet
-vnet vc cc index		:	cache coherence vnet index × vc
+traversal  id			: 	identifier used to group all packet transfers related to one NoC <br/>traversal.
+hop count			:	number of hops from the source to the destination.<br/>
+current hop			:	number of hops from the source to the current router<br/>
+hop percentage		:	ratio between the current hop and the hop count<br/>
+enqueue time		:	time spent inside the router by the flit<br/>
+packet count decr		:	cumulative no. of flit arrivals within time window τ (decremented as packets arrive) <br/>
+packet count incr		:	cumulative no. of flit arrivals within time window τ (incremented as packets arrive)<br/>
+max packet count		:	maximum no. of flits transferred through the router within a given time window τ <br/>
+packet count index	: 	packet count incr × packet count decr <br/>
+Port index			:	outport × inport <br/>
+traversal index		:	cache coherence type × flit id × flit type × traversal id <br/>
+cc vnet index		:	cache coherence type × vnet <br/>
+vnet vc cc index		:	cache coherence vnet index × vc 
 
 ## Feature Correlation
 

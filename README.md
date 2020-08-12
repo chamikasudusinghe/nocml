@@ -299,7 +299,7 @@ Each test case consists of more than 3000 such time windows, which is related to
 ## DOS Attack Detection in Other Benchmarks
 
 <p align="center"> 
-<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/25-bench.png">
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/25-bench.jpg">
 </p>
 
 ## Conclusion

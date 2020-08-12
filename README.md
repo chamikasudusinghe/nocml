@@ -302,11 +302,17 @@ Each test case consists of more than 3000 such time windows, which is related to
 <img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/25-bench.jpg">
 </p>
 
+Results show that even though the model is not trained on a particular application (traffic pattern), it is capable of detecting attacks with high accuracy on other benchmarks.
+
 ## Conclusion
 
-<p align="center"> 
-<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/21-val.png">
-</p>
+The taken approach is capable of detecting DoS attacks with high accuracy in the presence of unpredictable NoC traffic patterns caused by diverse applications with input variations and different application mappings.
+
+Experimental results demonstrated that non-linear models, such as gradient boosting, produce the best results for the given architecture and threat models.
+
+The key to achieving high accuracy is to carefully craft features out of the data extracted from NoC traffic.
+
+Finally, machine learning can be used for anomaly detection of NoC based SoCs.
 
 ## File Directory
 

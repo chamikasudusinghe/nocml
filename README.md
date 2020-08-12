@@ -284,13 +284,22 @@ Since each router runs a model trained from the data extracted at that particula
 ## DOS Attack Detection Accuracy
 
 <p align="center"> 
-<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/21-val.png">
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/23-attack.png">
 </p>
+
+Each router outputs the attack probability independently for a given time window τj and each time window is fixed at 1000 cycles.
+
+
+<p align="center"> 
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/24-normal.png">
+</p>
+
+Each test case consists of more than 3000 such time windows, which is related to the application execution time, and attack detection accuracy is calculated using probabilistic opinion pooling.
 
 ## DOS Attack Detection in Other Benchmarks
 
 <p align="center"> 
-<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/21-val.png">
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/25-bench.png">
 </p>
 
 ## Conclusion

@@ -174,7 +174,7 @@ Paper submission to the conference		- 05th June		-	✔️
 ## GEM5 Simulation and Data Extraction
 
 <p align="center"> 
-<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/14-sim.png">
+<img src = "https://github.com/chamikasudusinghe/nocml/blob/master/%5B05%20-%20Resources%5D/14-sim.PNG">
 </p>
 
 Each hop of a flit is depicted in 6 lines; connection to network interface, waking up of the router, flit passing through the router.
